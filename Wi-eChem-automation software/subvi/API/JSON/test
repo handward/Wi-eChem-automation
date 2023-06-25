@@ -1,0 +1,31 @@
+{
+    "number of process": 4,
+    "experiment_No": 1,
+    "process1": {
+        "1": {
+            "device": "public_device_occupy",
+            "operation": {
+                "ID": 1,
+                "command": "robot, pump, relay",
+            }
+        },
+        "2": {
+            "device": "robot",
+            "operation": {
+            "ID": 1,
+            "command": "x = 45.0, y = 0.0, z = -10.0, r = 0.0, speed = 100, rough = 0.0"
+            }
+        }
+        "number of steps": 2
+    },
+    "process2": {
+    "1": {
+        "device": "power_supply1",
+        "operation": {
+            "ID": 1,
+            "command": "2.11"
+        }
+    },
+        "number of steps": 3
+    }
+}
