@@ -1,4 +1,4 @@
-# **Automated robotic electrosynthesis platform with Wi-eChem devices**
+# **Automated robotic electrosynthesis platform based on Wi-eChem devices**
 Automated control code for multi-channel electroscreening system
 ## **Install procedures**
 1. Install LabvIEW 2020 (Only tested on 2020)
