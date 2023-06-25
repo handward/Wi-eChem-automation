@@ -9,6 +9,6 @@ Automated control code for multi-channel electroscreening system
 
 ## **How to use**
 1. Put the experimental parameters into user.xls 
-2. Rub "Wi-eChem-automation/Main.vi"
+2. Run "Wi-eChem-automation/Main.vi"
 3. Select user.xls and the corresponding Python version
 4. Set the device port, etc.
